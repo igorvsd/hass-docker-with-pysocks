@@ -1,0 +1,2 @@
+FROM homeassistant/raspberrypi3-homeassistant
+RUN pip3 install PySocks
